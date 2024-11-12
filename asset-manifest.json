@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Web-Based-Amarine/static/css/main.3059bddb.css",
-    "main.js": "/Web-Based-Amarine/static/js/main.486ddfdd.js",
+    "main.js": "/Web-Based-Amarine/static/js/main.7a3d1c85.js",
     "static/js/453.66371ff9.chunk.js": "/Web-Based-Amarine/static/js/453.66371ff9.chunk.js",
     "index.html": "/Web-Based-Amarine/index.html",
     "main.3059bddb.css.map": "/Web-Based-Amarine/static/css/main.3059bddb.css.map",
-    "main.486ddfdd.js.map": "/Web-Based-Amarine/static/js/main.486ddfdd.js.map",
+    "main.7a3d1c85.js.map": "/Web-Based-Amarine/static/js/main.7a3d1c85.js.map",
     "453.66371ff9.chunk.js.map": "/Web-Based-Amarine/static/js/453.66371ff9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3059bddb.css",
-    "static/js/main.486ddfdd.js"
+    "static/js/main.7a3d1c85.js"
   ]
 }
