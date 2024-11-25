@@ -85,7 +85,7 @@ function beranda() {
               >
                 <img src="assets/artikel 3.png" alt="panduan" />
                 <div className="card-main-content-panduan-dan-artikel-secondary-deskripsi">
-                  <h2>Inovasi & Teknologi Untuk Nelayan</h2>
+                  <h2>Inovasi Untuk Nelayan</h2>
                   <h3>
                     Tanpa BBM, Kapal Nelayan Inovasi Mahasiswa ITS Ramah
                     Lingkungan
